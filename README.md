@@ -15,8 +15,8 @@ ____
 **Test cases:**
 Given in the program is the coordinates for Erie, Pennsylvania.
 In test cases, I tried Orlando, Florida and New York City, New York Coordinates.
-NYC: 40.7128,74.0060
-Orlando: 28.5384,81.3789
+NYC: 40.7128,-74.0060
+Orlando: 28.5384,-81.3789
 ____
 **Future additions:**
 Add the ability to search for specific cities. I'm sure there is a library that has coordinates of majors cities.
